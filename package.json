@@ -1,9 +1,9 @@
 {
-  "name": "@nafing/ncore",
+  "name": "@nafing/ncore-ui",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/nafing"
   },
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "UI Framework",
   "scripts": {
     "rollup": "rollup -c"
